@@ -1,0 +1,26 @@
+.connexion{
+    background-color: rgba(248, 249, 250, 1);
+    padding: 20px;
+    width: 25%;
+    margin-top: 100px;
+}
+h2{
+    text-align: center;
+}
+.form-label{
+    margin-top: 20px;
+}
+.form-label1{
+    margin-bottom: 5px;
+}
+.form-control1{
+    margin-bottom: 30px;
+    width: 100%;
+}
+.form-control2{
+    width: 100%;
+}
+.btn{
+    margin-left: 32%;
+    margin-bottom: 10px;
+}
